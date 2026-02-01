@@ -29,7 +29,7 @@ It includes numerical variables related to:
 - Supplier quality and delivery reliability
 - Maintenance effort and machine downtime
 - Inventory and stock availability
-- Workforce productivity and safety
+- Worker productivity and safety
 - Energy usage and efficiency
 - Additional processing time and material cost
 
