@@ -73,7 +73,7 @@ With integration of real-time production or IoT data, the framework can be exten
 ---
 
 ## Tools & Technologies
-- Python / R
+- R
 - Regression-based modeling
 - Optimization techniques
 - Manufacturing analytics
